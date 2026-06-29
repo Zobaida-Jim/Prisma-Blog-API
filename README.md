@@ -380,4 +380,4 @@ This project helped me practice:
 
 **Zobaida Jim**
 
-- LinkedIn: https://linkedin.com/in/your-linkedin-username
+- LinkedIn: https://www.linkedin.com/in/zobaida-jim/
