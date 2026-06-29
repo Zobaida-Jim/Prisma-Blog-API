@@ -158,6 +158,15 @@ prisma-blog-api
 
 ---
 
+
+## Database Design
+
+The following ERD illustrates the relationships between Users, Profiles, Posts, and Comments.
+
+![ERD Diagram](./ERD.png)
+
+---
+
 # ⚙️ Installation
 
 ## Clone the Repository
