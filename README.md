@@ -379,5 +379,3 @@ This project helped me practice:
 # 👨‍💻 Author
 
 **Zobaida Jim**
-
-- LinkedIn: https://www.linkedin.com/in/zobaida-jim/
